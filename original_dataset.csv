@@ -1,0 +1,501 @@
+Age,Gender,Annual Income,Marital Status,Education Level,Health Score,Credit Score,Insurance Duration,Premium Amount,Smoking Status,Exercise Frequency
+22.0,Female,20478.0,Single,Master's,36.77638190803560,582.0,1,490.0,No,Daily
+32.0,Male,112740.0,Married,Master's,19.720091272657600,751.0,1,2319.0,No,Monthly
+54.0,Male,24958.0,Single,Bachelor's,13.31907815172270,,1,63.0,No,Rarely
+32.0,Female,13198.0,Married,High School,5.828754536381750,317.0,7,21.0,Yes,Weekly
+62.0,Female,16146.0,Divorced,Master's,20.76849896450970,556.0,1,81.0,No,Monthly
+38.0,Female,59862.0,Married,High School,28.091607996051400,582.0,7,366.0,No,Daily
+60.0,Female,7833.0,Single,Master's,56.71479008379860,478.0,1,1127.0,Yes,Weekly
+45.0,Female,,Married,High School,14.811039423055900,576.0,9,515.0,Yes,Daily
+28.0,Female,38022.0,Married,PhD,56.07075325114180,702.0,2,2530.0,Yes,Monthly
+36.0,Male,116775.0,Married,Bachelor's,,405.0,6,141.0,No,Daily
+31.0,Male,43064.0,Single,High School,31.15995048654510,486.0,6,316.0,Yes,Rarely
+38.0,Female,3458.0,Married,Bachelor's,48.31215306163650,507.0,3,463.0,No,Weekly
+60.0,Female,42014.0,Single,Bachelor's,31.79510065639520,500.0,8,473.0,Yes,Rarely
+26.0,Male,9066.0,Single,Master's,39.9692156210629,801.0,7,696.0,Yes,Weekly
+29.0,Male,9701.0,Single,Bachelor's,31.68842298213840,512.0,3,685.0,No,Daily
+20.0,Male,30560.0,Married,High School,56.22011769763480,345.0,3,260.0,No,Weekly
+31.0,Male,37824.0,Single,Bachelor's,34.624409431554300,490.0,1,999.0,Yes,Daily
+53.0,Female,25580.0,Married,PhD,23.402552634458200,,2,850.0,Yes,Rarely
+32.0,Male,89859.0,Divorced,Bachelor's,33.52797095273160,620.0,7,1607.0,Yes,Rarely
+,Female,2788.0,Single,PhD,7.648233082725510,733.0,6,507.0,No,Daily
+63.0,Female,39589.0,Divorced,High School,43.96888066234670,480.0,6,513.0,Yes,Daily
+20.0,Male,2094.0,Married,Master's,34.40930469853170,709.0,5,36.0,No,Rarely
+63.0,Male,21230.0,Married,PhD,35.697334664461500,801.0,9,318.0,Yes,Rarely
+63.0,Male,384.0,Single,Bachelor's,21.160273638096200,646.0,7,29.0,No,Daily
+24.0,Male,14341.0,Married,Master's,20.756031971534600,392.0,7,613.0,No,Rarely
+31.0,Female,149791.0,Divorced,High School,46.81452013338170,307.0,5,1253.0,Yes,Monthly
+49.0,Male,41065.0,Married,Master's,30.05160292613260,633.0,9,298.0,Yes,Daily
+39.0,Female,88190.0,Divorced,High School,52.20416481237980,704.0,2,1448.0,Yes,Daily
+62.0,Male,1111.0,Married,High School,11.777634473950000,384.0,5,243.0,No,Rarely
+19.0,Female,39262.0,Single,Master's,24.978739027302500,609.0,2,1294.0,Yes,Rarely
+30.0,Female,31410.0,Single,High School,8.534716964899000,846.0,3,1073.0,Yes,Weekly
+33.0,Female,24248.0,Single,Master's,17.252272752419200,672.0,3,574.0,Yes,Weekly
+32.0,Female,3976.0,Married,PhD,55.23043342720800,325.0,5,1573.0,Yes,Daily
+61.0,Female,11958.0,Single,PhD,8.151090871421100,526.0,3,96.0,Yes,Monthly
+38.0,Male,4264.0,Married,Master's,9.894602203072860,342.0,1,510.0,Yes,Daily
+29.0,Male,10656.0,Single,PhD,32.19907666191230,831.0,4,519.0,No,Rarely
+46.0,Female,82549.0,Married,High School,33.76907138466090,826.0,2,708.0,Yes,Weekly
+53.0,Male,126150.0,Single,PhD,35.12306017916200,417.0,8,14.0,Yes,Weekly
+46.0,Male,38028.0,Single,Bachelor's,24.618018286483400,503.0,6,613.0,Yes,Daily
+39.0,Male,4307.0,Divorced,High School,31.1232889268927,611.0,8,136.0,Yes,Monthly
+23.0,Female,1699.0,Single,High School,26.928217004790200,576.0,6,688.0,No,Weekly
+22.0,Male,38706.0,Divorced,Bachelor's,21.752425710631700,746.0,8,668.0,Yes,Rarely
+28.0,Male,29061.0,Single,PhD,17.051215856143900,727.0,4,167.0,No,Weekly
+35.0,Male,85397.0,Married,High School,28.290439886915500,763.0,2,244.0,No,Rarely
+45.0,Male,17538.0,Divorced,PhD,4.63774137866878,,6,262.0,Yes,Monthly
+51.0,Male,30221.0,Single,Bachelor's,32.8652343168437,710.0,2,2033.0,Yes,Rarely
+22.0,Male,64968.0,Married,High School,23.40533173908480,357.0,9,539.0,No,Weekly
+39.0,Male,,Married,High School,44.842276497014300,516.0,5,394.0,Yes,Weekly
+54.0,Female,73978.0,Divorced,High School,9.895257548979750,491.0,2,640.0,No,Weekly
+20.0,Male,57581.0,Divorced,PhD,42.68480861575090,449.0,3,1.0,No,Weekly
+51.0,Female,106900.0,Married,Master's,34.33494772008190,548.0,2,708.0,Yes,Daily
+30.0,Male,400.0,Married,PhD,53.28864978680220,422.0,9,2216.0,Yes,Monthly
+35.0,Female,50930.0,Married,Bachelor's,4.662284126021480,616.0,3,1068.0,No,Weekly
+56.0,Male,51933.0,Single,PhD,27.697818974565400,652.0,1,793.0,No,Weekly
+41.0,Male,,Divorced,High School,45.333477928116200,691.0,9,1077.0,Yes,Weekly
+35.0,Male,1592.0,Single,Bachelor's,19.97006443251920,777.0,7,801.0,Yes,Weekly
+46.0,Male,304.0,Single,Bachelor's,12.071312234075000,506.0,1,1187.0,No,Daily
+63.0,Male,,Single,Master's,44.7438797349007,655.0,6,499.0,No,Weekly
+47.0,Male,120603.0,Single,Bachelor's,31.11482489590470,740.0,5,406.0,No,Monthly
+53.0,Male,121173.0,,Bachelor's,5.158236886498200,793.0,7,297.0,No,Rarely
+63.0,Male,76222.0,Divorced,Master's,6.233417560413100,746.0,9,902.0,No,Daily
+38.0,Male,24866.0,Divorced,High School,38.16685918344600,838.0,5,655.0,Yes,Monthly
+43.0,Male,700.0,Divorced,PhD,59.32295038883710,734.0,9,2320.0,No,Monthly
+43.0,Male,4861.0,Single,High School,42.8100283934066,781.0,5,1399.0,No,Daily
+55.0,Female,45099.0,Married,Bachelor's,11.205528113101100,609.0,5,1167.0,No,Weekly
+27.0,Male,3765.0,Married,PhD,23.917913982837800,433.0,5,1232.0,No,Daily
+42.0,Female,33436.0,Married,Master's,34.72778292114110,429.0,9,423.0,Yes,Monthly
+30.0,Male,47854.0,,PhD,44.59371566901670,800.0,8,536.0,No,Monthly
+57.0,Female,64460.0,Single,Master's,40.41535374437330,776.0,8,345.0,No,Monthly
+42.0,Male,22853.0,Married,PhD,33.403511125682700,749.0,4,346.0,Yes,Weekly
+46.0,Female,55784.0,Single,Master's,24.73209520101360,,3,966.0,No,Monthly
+18.0,Male,13710.0,Married,PhD,31.601903854718500,709.0,8,573.0,Yes,Rarely
+39.0,Male,1173.0,Married,Bachelor's,47.76248593269870,480.0,1,268.0,No,Weekly
+59.0,Female,14913.0,Married,Bachelor's,54.14658205904830,735.0,5,1206.0,No,Rarely
+61.0,Female,8904.0,Single,Master's,37.737505928078600,724.0,3,745.0,No,Monthly
+48.0,Female,9854.0,Single,PhD,29.394394826941100,409.0,5,4070.0,Yes,Monthly
+46.0,Female,13266.0,Married,Master's,42.27252906300060,,6,925.0,No,Monthly
+64.0,Female,33293.0,Married,PhD,27.377541939297200,777.0,1,342.0,No,Rarely
+56.0,Male,34961.0,Married,High School,55.247348124527100,827.0,6,760.0,Yes,Weekly
+36.0,Male,33862.0,Married,Bachelor's,28.569986671292800,455.0,6,1072.0,Yes,Monthly
+54.0,Male,146241.0,Single,Bachelor's,45.78417280780770,653.0,5,88.0,No,Daily
+62.0,Female,132334.0,Married,PhD,8.087548170992180,497.0,1,2968.0,Yes,Weekly
+54.0,Male,18895.0,Married,Bachelor's,51.59162210389240,655.0,4,1125.0,Yes,Daily
+27.0,Male,21891.0,Married,Master's,20.61522834069810,665.0,3,692.0,No,Weekly
+55.0,Male,50092.0,Divorced,High School,33.35909311132940,488.0,4,1259.0,Yes,Daily
+64.0,Male,48084.0,Married,High School,31.37973448068300,849.0,7,1085.0,Yes,Monthly
+40.0,Female,2011.0,Married,High School,49.657363261819100,320.0,4,437.0,No,Daily
+27.0,Female,18443.0,Married,Bachelor's,53.11668004057070,322.0,4,677.0,No,Daily
+41.0,Female,67586.0,Single,PhD,31.292486192101000,800.0,2,202.0,No,Rarely
+46.0,Male,,Single,High School,3.636924563138290,692.0,5,15.0,No,Weekly
+20.0,Female,73155.0,Married,PhD,49.200872041929700,346.0,1,350.0,No,Daily
+23.0,Male,7382.0,Divorced,High School,52.469564718537500,689.0,5,927.0,Yes,Rarely
+36.0,Female,17498.0,Single,Bachelor's,12.894143469890500,380.0,9,367.0,Yes,Weekly
+30.0,Male,141689.0,Divorced,Master's,38.76683505306110,,2,651.0,Yes,Weekly
+22.0,Female,30913.0,Divorced,Bachelor's,28.86844088711500,352.0,7,1063.0,No,Daily
+43.0,Male,40869.0,Divorced,High School,14.0845744844671,,5,1023.0,Yes,Daily
+39.0,Male,108975.0,Divorced,High School,66.53269536360550,842.0,3,1249.0,No,Rarely
+22.0,Male,10430.0,Divorced,PhD,56.64933548670860,598.0,6,2620.0,No,Daily
+58.0,Male,27650.0,Single,Master's,13.02623881132090,450.0,3,182.0,Yes,Weekly
+21.0,Male,62496.0,Divorced,Master's,19.2603642915704,711.0,1,3385.0,No,Weekly
+52.0,Female,3027.0,Single,Master's,59.04989067880460,400.0,1,519.0,No,Weekly
+35.0,Male,64381.0,Single,Master's,38.880622816721000,648.0,6,1401.0,No,Monthly
+43.0,Male,36371.0,Single,High School,39.40053785804240,668.0,7,686.0,Yes,Weekly
+49.0,Female,43143.0,Single,Master's,,711.0,8,378.0,Yes,Weekly
+40.0,Female,48105.0,Divorced,High School,17.35886809765120,372.0,1,1277.0,Yes,Monthly
+46.0,Male,54500.0,Married,PhD,51.83008398875920,520.0,6,4335.0,No,Monthly
+23.0,Female,122682.0,Divorced,Master's,1.11759788453971,565.0,4,2555.0,Yes,Monthly
+41.0,Female,58580.0,Divorced,High School,26.49280945527380,566.0,3,491.0,Yes,Monthly
+55.0,Female,68496.0,Married,PhD,37.50196917333680,,4,1142.0,Yes,Rarely
+45.0,Male,1788.0,Divorced,Bachelor's,40.444536482571700,687.0,9,48.0,No,Rarely
+20.0,Female,34182.0,Single,High School,43.15378107304260,768.0,1,45.0,No,Rarely
+49.0,Male,10471.0,Married,Bachelor's,39.20105084489640,350.0,5,2839.0,No,Rarely
+35.0,Female,33438.0,Married,High School,75.2059846640909,695.0,8,3.0,Yes,Monthly
+47.0,Male,13387.0,Married,PhD,25.921990717748600,386.0,8,392.0,Yes,Daily
+35.0,Male,21722.0,Single,High School,5.567447357689420,623.0,6,1397.0,Yes,Monthly
+23.0,Female,6281.0,Married,High School,13.020120007375300,427.0,2,808.0,Yes,Daily
+55.0,Male,80448.0,Single,PhD,49.22165897642390,754.0,2,268.0,No,Daily
+52.0,Male,4576.0,Married,Bachelor's,43.95270719482080,679.0,6,1072.0,No,Daily
+51.0,Male,41807.0,Single,Bachelor's,1.6321284599486600,555.0,4,2041.0,Yes,Monthly
+45.0,Female,17739.0,Single,High School,45.84071070721270,330.0,1,325.0,No,Rarely
+64.0,Male,5732.0,Single,Master's,22.792300719091300,655.0,6,3.0,No,Rarely
+18.0,Female,29349.0,Divorced,Master's,24.81240565157670,525.0,9,1369.0,No,Monthly
+47.0,Female,40878.0,Divorced,High School,8.109346498418520,750.0,6,913.0,Yes,Daily
+24.0,Female,4570.0,Single,Bachelor's,83.81555207788840,790.0,2,1461.0,No,Monthly
+37.0,Female,79157.0,Divorced,High School,8.390522611100510,509.0,9,391.0,No,Daily
+30.0,Male,9869.0,Single,High School,42.89972119455380,784.0,5,618.0,No,Monthly
+60.0,Male,92386.0,Married,Bachelor's,34.48979616183690,805.0,9,292.0,No,Rarely
+35.0,Female,95240.0,Married,PhD,3.47098519697228,731.0,9,1828.0,No,Weekly
+49.0,Female,9223.0,Married,Bachelor's,17.87046152114510,378.0,7,152.0,Yes,Weekly
+19.0,Female,1172.0,Single,Master's,27.972936181338500,467.0,3,573.0,Yes,Daily
+64.0,Female,17322.0,Divorced,PhD,33.376426034469600,307.0,4,177.0,Yes,Rarely
+40.0,Male,1099.0,Divorced,High School,12.056341735867700,,9,108.0,Yes,Rarely
+49.0,Female,16861.0,Married,Master's,7.97186832806244,750.0,1,628.0,No,Monthly
+30.0,Female,81368.0,Divorced,PhD,18.589539983954200,594.0,8,1156.0,Yes,Monthly
+64.0,Female,15946.0,Divorced,PhD,64.0904601092244,724.0,4,643.0,Yes,Weekly
+61.0,Female,124826.0,Married,PhD,9.739728439840940,572.0,7,173.0,Yes,Weekly
+38.0,Male,67068.0,Married,PhD,49.470844456061600,320.0,3,4579.0,Yes,Monthly
+62.0,Male,62302.0,Divorced,Bachelor's,,644.0,6,1214.0,Yes,Daily
+38.0,Female,5863.0,Divorced,Master's,30.26808870464670,841.0,2,1261.0,No,Daily
+41.0,Female,6802.0,Married,High School,31.78640077511660,716.0,2,22.0,Yes,Daily
+60.0,Male,6604.0,Single,PhD,50.62349378639750,793.0,5,1324.0,No,Weekly
+57.0,Male,8092.0,Married,Bachelor's,17.575913589401500,626.0,9,1479.0,No,Rarely
+54.0,Female,,Single,Bachelor's,23.048338377975600,808.0,8,1891.0,Yes,Monthly
+52.0,Male,33392.0,Married,PhD,36.37894831077060,,8,949.0,No,Rarely
+20.0,Male,46144.0,Divorced,High School,57.07706276992890,795.0,4,227.0,Yes,Monthly
+56.0,Female,46151.0,Married,High School,11.381237377759500,310.0,7,834.0,Yes,Monthly
+19.0,Male,18800.0,Divorced,PhD,31.453698251591700,623.0,4,1177.0,Yes,Daily
+47.0,Male,75088.0,Married,PhD,32.94239460028990,660.0,9,160.0,Yes,Daily
+60.0,Male,1112.0,Divorced,Bachelor's,,806.0,8,1257.0,No,Monthly
+20.0,Male,,Married,Bachelor's,23.0014994839852,392.0,5,1217.0,Yes,Rarely
+28.0,Female,32872.0,Divorced,Master's,38.650651415669500,542.0,9,1178.0,Yes,Daily
+28.0,Male,100277.0,Married,High School,42.69387111690050,734.0,3,806.0,Yes,Monthly
+37.0,Female,81415.0,Single,Master's,16.699972583418800,562.0,4,456.0,Yes,Rarely
+51.0,Female,109694.0,Single,Bachelor's,83.16407934380860,335.0,5,785.0,Yes,Monthly
+32.0,Female,76676.0,Single,High School,22.60684439470510,507.0,3,3135.0,Yes,Monthly
+58.0,Female,25463.0,Divorced,Master's,28.719309128781100,599.0,2,446.0,Yes,Monthly
+57.0,Male,42414.0,Divorced,Bachelor's,26.576579399500300,418.0,7,538.0,Yes,Monthly
+40.0,Male,41927.0,Married,Bachelor's,42.209449575994300,562.0,9,1831.0,No,Monthly
+22.0,Female,2559.0,Married,Master's,38.1184573178272,364.0,4,803.0,Yes,Monthly
+33.0,Female,120833.0,Single,High School,5.131437307781300,770.0,1,559.0,No,Daily
+33.0,Female,36631.0,Single,Bachelor's,15.72762909218600,,9,2229.0,No,Daily
+59.0,Male,41764.0,Divorced,PhD,11.704800318829300,662.0,4,355.0,No,Monthly
+20.0,Male,22153.0,Single,Bachelor's,16.07213977039450,604.0,6,51.0,No,Weekly
+42.0,Male,21266.0,Single,Master's,12.43117304914880,371.0,7,273.0,Yes,Rarely
+42.0,Male,63306.0,Single,Master's,47.28315616889600,458.0,5,223.0,Yes,Weekly
+39.0,Female,82908.0,Single,Master's,43.91127950394770,695.0,1,1369.0,Yes,Weekly
+60.0,Male,10795.0,Divorced,Master's,14.980873086680900,363.0,8,1854.0,No,Weekly
+35.0,Male,28559.0,Married,High School,23.78262447489420,789.0,4,165.0,Yes,Rarely
+53.0,Male,61875.0,,High School,23.32362649566210,663.0,6,631.0,Yes,Monthly
+44.0,Female,25731.0,Single,Bachelor's,26.827313253338700,414.0,3,1703.0,Yes,Monthly
+21.0,Male,110255.0,Single,High School,50.65538632986900,677.0,1,564.0,Yes,Monthly
+56.0,Male,,Single,Bachelor's,40.29514318945440,508.0,7,2222.0,Yes,Weekly
+28.0,Male,23662.0,Married,Bachelor's,54.469541237378400,744.0,2,541.0,Yes,Weekly
+57.0,Male,70000.0,Single,Master's,24.30327366039670,703.0,9,4093.0,No,Monthly
+31.0,Female,1649.0,Single,High School,29.196621587036700,,2,60.0,No,Monthly
+43.0,Female,22367.0,,Bachelor's,62.81532431560500,813.0,2,1047.0,No,Weekly
+61.0,Male,31994.0,Married,High School,24.26243639608810,733.0,6,1118.0,No,Daily
+63.0,Male,137077.0,Single,PhD,34.802516303529600,696.0,3,256.0,Yes,Rarely
+33.0,Male,121966.0,Single,Bachelor's,41.94666019940790,724.0,8,428.0,No,Weekly
+63.0,Female,126196.0,Single,High School,16.025993552485400,557.0,9,3213.0,No,Weekly
+46.0,Female,76904.0,Married,Bachelor's,37.191784591845700,791.0,7,844.0,No,Monthly
+43.0,Female,39115.0,Divorced,Master's,18.18413269158960,487.0,6,421.0,No,Rarely
+55.0,Male,41179.0,Married,High School,16.781707367389500,849.0,3,1524.0,No,Monthly
+31.0,Female,40706.0,Divorced,High School,10.05236921596740,638.0,2,1109.0,No,Daily
+57.0,Female,41930.0,Divorced,PhD,34.30231032674660,746.0,5,1006.0,Yes,Monthly
+64.0,Male,,Married,PhD,14.408790061432500,623.0,2,996.0,Yes,Weekly
+46.0,Female,93253.0,Married,Bachelor's,5.42028968805149,449.0,2,2861.0,No,Monthly
+21.0,Female,55637.0,Divorced,Master's,11.22040095933280,,4,1639.0,No,Rarely
+52.0,Female,11501.0,Single,PhD,23.99847043328800,810.0,9,2721.0,Yes,Rarely
+43.0,Female,41970.0,Married,PhD,,705.0,9,341.0,No,Daily
+44.0,Male,141913.0,Married,PhD,6.791208271056890,756.0,4,3746.0,Yes,Rarely
+39.0,Male,60320.0,Married,PhD,12.360462314203600,716.0,5,1350.0,No,Monthly
+43.0,Male,58757.0,Single,Master's,26.797639058714800,643.0,8,3027.0,No,Weekly
+,Male,76060.0,Divorced,Bachelor's,23.40553943220060,849.0,6,787.0,No,Daily
+24.0,Female,73130.0,Married,PhD,33.82695490738570,578.0,8,828.0,Yes,Weekly
+24.0,Male,54409.0,Married,Master's,27.62930531534850,,8,1746.0,No,Daily
+39.0,Female,61249.0,Married,Master's,29.886042420292400,662.0,1,3.0,Yes,Monthly
+19.0,Male,25464.0,Married,High School,9.451855431305320,603.0,6,7.0,No,Rarely
+62.0,Female,2303.0,Divorced,High School,24.67243000746110,537.0,5,2426.0,Yes,Rarely
+50.0,Female,,Single,Master's,35.35615614813220,469.0,8,216.0,Yes,Rarely
+63.0,Male,52304.0,Single,Bachelor's,30.59259621439990,439.0,7,551.0,No,Weekly
+44.0,Male,132786.0,Single,Bachelor's,8.698625125115880,828.0,6,535.0,Yes,Rarely
+26.0,Female,853.0,Single,Bachelor's,39.2650265197648,701.0,2,642.0,Yes,Weekly
+63.0,Female,59353.0,Married,PhD,20.144404592456800,755.0,1,164.0,No,Rarely
+36.0,Female,36923.0,Divorced,Bachelor's,40.9594123641719,794.0,9,597.0,No,Monthly
+62.0,Male,37814.0,Married,High School,11.808344000955100,421.0,4,605.0,No,Daily
+38.0,Female,15467.0,Single,PhD,31.316205725056400,768.0,5,29.0,No,Monthly
+34.0,Female,122848.0,Divorced,PhD,28.656598824291300,470.0,9,924.0,No,Rarely
+38.0,Male,78844.0,Single,High School,25.270741071364300,761.0,6,285.0,Yes,Monthly
+34.0,Male,25690.0,Divorced,Master's,8.409217363206940,667.0,7,805.0,Yes,Monthly
+47.0,Female,27466.0,Divorced,PhD,22.656591744107000,326.0,6,768.0,Yes,Monthly
+27.0,Male,18223.0,Divorced,PhD,34.047274733902600,762.0,7,2247.0,No,Monthly
+56.0,Female,57563.0,Divorced,Master's,18.4652773863448,766.0,4,62.0,Yes,Monthly
+31.0,Female,98799.0,Married,PhD,21.78843570344240,381.0,6,819.0,No,Rarely
+48.0,Female,18064.0,Divorced,High School,45.28689329460540,339.0,1,2292.0,Yes,Rarely
+29.0,Male,20055.0,Married,High School,33.712703381013700,598.0,4,678.0,No,Monthly
+26.0,Male,58259.0,Married,High School,35.21160962173890,624.0,5,829.0,Yes,Rarely
+43.0,Female,17000.0,Married,Bachelor's,21.192670891319900,446.0,7,1729.0,Yes,Daily
+55.0,Female,25651.0,Single,Bachelor's,7.402589149964840,714.0,4,371.0,No,Monthly
+57.0,Female,8956.0,Single,Master's,21.856730587106400,,9,3130.0,No,Monthly
+31.0,Female,86219.0,Single,PhD,61.11555461094170,303.0,4,147.0,No,Daily
+59.0,Male,51914.0,Married,Bachelor's,39.47378381426950,811.0,9,1001.0,No,Weekly
+55.0,Male,26390.0,Married,PhD,,654.0,7,182.0,No,Daily
+30.0,Male,50317.0,Divorced,High School,27.653654636849200,696.0,6,894.0,No,Daily
+18.0,Female,32493.0,Divorced,Master's,7.140448407154870,616.0,8,317.0,No,Rarely
+18.0,Male,78382.0,Divorced,Bachelor's,53.23932158503320,482.0,1,937.0,No,Daily
+38.0,Female,71852.0,Single,PhD,30.37824563711710,653.0,1,2623.0,No,Rarely
+44.0,Male,115245.0,Single,High School,25.11312504760180,409.0,8,4598.0,No,Weekly
+42.0,Male,81277.0,Married,PhD,29.853821358966400,699.0,3,57.0,Yes,Weekly
+39.0,Female,2879.0,Single,Master's,32.979923997398400,810.0,1,928.0,No,Rarely
+47.0,Male,26859.0,Married,Master's,41.24842281699820,,5,97.0,No,Daily
+60.0,Female,53223.0,Divorced,PhD,27.10215140145520,,9,846.0,No,Daily
+,Male,,Divorced,Master's,60.20486606039420,322.0,4,470.0,No,Daily
+35.0,Male,685.0,Single,Bachelor's,5.106521038059790,760.0,1,1519.0,No,Rarely
+29.0,Female,24628.0,Single,PhD,11.466399506670000,376.0,9,10.0,Yes,Daily
+40.0,Female,28986.0,Single,Bachelor's,23.62736313032740,391.0,8,1416.0,No,Monthly
+42.0,Male,145257.0,Married,High School,39.18782267567680,,9,1411.0,No,Rarely
+33.0,Male,62325.0,Single,PhD,9.573429013228640,758.0,9,1019.0,No,Daily
+20.0,Female,60523.0,Married,Bachelor's,38.6077142350655,309.0,2,120.0,No,Daily
+19.0,Male,75643.0,Divorced,Bachelor's,14.589918725851300,669.0,3,2287.0,Yes,Monthly
+50.0,Female,10904.0,Divorced,Master's,42.78582027363270,732.0,3,728.0,No,Rarely
+46.0,Female,9120.0,Single,PhD,40.91075942332750,617.0,5,982.0,Yes,Rarely
+38.0,Female,25992.0,Single,PhD,49.27415357054900,576.0,9,342.0,No,Weekly
+43.0,Female,109627.0,Married,Master's,13.238487460065500,484.0,5,2699.0,Yes,Daily
+43.0,Male,114290.0,Divorced,High School,17.595834455035000,433.0,5,685.0,Yes,Rarely
+51.0,Female,28353.0,Single,Master's,23.27535240686750,805.0,7,2480.0,Yes,Rarely
+59.0,Male,118473.0,Married,Bachelor's,31.375865474871100,798.0,6,168.0,No,Rarely
+26.0,Female,62127.0,Married,Bachelor's,23.68460210235880,370.0,8,1808.0,Yes,Monthly
+39.0,Male,139245.0,Single,Bachelor's,41.74485569240750,741.0,9,1144.0,Yes,Monthly
+31.0,Female,39613.0,Single,Bachelor's,23.814823339932000,604.0,5,580.0,Yes,Weekly
+58.0,Female,10179.0,Single,PhD,9.656976196637790,515.0,4,154.0,Yes,Monthly
+59.0,Female,31171.0,Single,High School,27.11690280085190,302.0,6,1004.0,Yes,Daily
+32.0,Male,3266.0,Divorced,PhD,13.565625313961800,547.0,3,1206.0,Yes,Rarely
+49.0,Male,,Married,PhD,12.076048936553100,833.0,4,167.0,Yes,Daily
+54.0,Female,126517.0,Single,High School,28.096052902924,640.0,2,83.0,Yes,Monthly
+49.0,Female,93963.0,Married,Master's,55.2881424552947,784.0,6,635.0,No,Daily
+54.0,Female,7502.0,Single,High School,22.602970133659200,652.0,9,3064.0,Yes,Daily
+25.0,Female,5143.0,Divorced,Master's,11.984168119604800,808.0,7,1443.0,Yes,Rarely
+,Female,98825.0,Married,Master's,,593.0,7,1966.0,No,Daily
+56.0,Male,21575.0,Single,Bachelor's,23.89554598665930,763.0,9,437.0,Yes,Daily
+43.0,Female,21482.0,Divorced,Master's,28.52754072670530,431.0,7,188.0,No,Monthly
+22.0,Female,21008.0,Single,Bachelor's,8.417776706872870,642.0,3,532.0,Yes,Weekly
+61.0,Female,90783.0,Divorced,High School,70.61044362333410,654.0,1,1452.0,Yes,Daily
+19.0,Female,100739.0,Married,High School,32.71934751528110,402.0,8,926.0,No,Weekly
+62.0,Male,3344.0,Single,High School,14.22727236594870,509.0,9,108.0,No,Weekly
+36.0,Female,7526.0,Single,PhD,25.741464889983900,447.0,4,821.0,Yes,Monthly
+30.0,Female,6672.0,Married,Master's,17.908018577959700,358.0,4,1075.0,No,Weekly
+64.0,Male,,Married,Master's,58.61550965394700,741.0,6,921.0,Yes,Daily
+31.0,Male,12946.0,Married,Bachelor's,23.936505815059800,748.0,9,681.0,Yes,Monthly
+23.0,Male,17263.0,Divorced,Master's,14.175447360867000,673.0,5,2291.0,Yes,Monthly
+25.0,Male,39254.0,Divorced,Bachelor's,25.765196249129300,603.0,5,739.0,No,Rarely
+57.0,Female,2856.0,Single,PhD,40.73755164989640,687.0,4,690.0,Yes,Monthly
+36.0,Female,43898.0,Married,High School,31.435787121181700,580.0,7,1037.0,No,Monthly
+64.0,Female,3127.0,Married,Bachelor's,13.60901628304860,433.0,4,1471.0,Yes,Monthly
+52.0,Female,69103.0,Divorced,Master's,15.890980748314000,574.0,6,248.0,Yes,Monthly
+61.0,Male,52508.0,Single,PhD,24.332204772860200,815.0,3,662.0,No,Daily
+43.0,Male,115081.0,Single,Master's,27.240188028180300,701.0,2,1258.0,Yes,Monthly
+42.0,Male,1388.0,Married,Master's,7.11296878369379,665.0,2,271.0,Yes,Daily
+18.0,Female,30726.0,Married,High School,32.30745255242340,,7,1430.0,No,Weekly
+58.0,Female,38003.0,Divorced,Bachelor's,20.62824339339810,,2,3813.0,No,Weekly
+46.0,Male,20623.0,Single,Bachelor's,24.785187218852300,,7,1939.0,Yes,Rarely
+23.0,Male,38598.0,Married,PhD,6.926818426054780,678.0,4,238.0,No,Weekly
+19.0,Female,66079.0,Single,Bachelor's,27.77279468314470,779.0,6,1216.0,Yes,Monthly
+61.0,Female,2077.0,Single,Bachelor's,18.43995322322060,674.0,5,1403.0,Yes,Daily
+27.0,Female,47171.0,Single,High School,28.748040929522300,538.0,1,147.0,No,Daily
+42.0,Female,55491.0,Married,Bachelor's,33.512511056565400,481.0,3,23.0,Yes,Weekly
+64.0,Male,28039.0,Single,High School,24.36730821932240,403.0,1,529.0,No,Daily
+52.0,Male,52628.0,Married,High School,13.670276056950500,406.0,7,604.0,Yes,Daily
+30.0,Female,4029.0,Single,High School,41.00164286821290,759.0,2,1026.0,No,Rarely
+52.0,Female,19693.0,Married,Bachelor's,10.461620083051600,364.0,7,521.0,Yes,Weekly
+58.0,Female,6070.0,Divorced,PhD,59.97058271004540,449.0,8,1319.0,Yes,Weekly
+42.0,Male,119520.0,Divorced,Master's,27.797186358800100,656.0,2,1201.0,Yes,Rarely
+49.0,Male,22803.0,Married,Bachelor's,31.883588660773200,719.0,8,1993.0,No,Daily
+30.0,Female,49125.0,Married,Master's,7.076771627790110,732.0,3,767.0,No,Rarely
+33.0,Female,40408.0,Divorced,High School,,576.0,2,712.0,Yes,Weekly
+29.0,Male,138885.0,Single,High School,32.642380557421100,686.0,8,132.0,Yes,Weekly
+35.0,Female,5678.0,Single,Bachelor's,3.054420352882080,821.0,2,2027.0,Yes,Rarely
+33.0,Male,7457.0,Divorced,Master's,37.97042800009970,545.0,2,869.0,No,Rarely
+36.0,Female,3092.0,Married,Master's,35.51790073171180,674.0,5,203.0,No,Monthly
+28.0,Male,15312.0,Single,Master's,16.933340157823300,579.0,5,2317.0,No,Daily
+30.0,Female,22989.0,Married,High School,13.4410124365034,357.0,2,2717.0,Yes,Weekly
+25.0,Female,118129.0,Married,Bachelor's,41.60934070152600,517.0,6,843.0,No,Daily
+50.0,Male,113346.0,Married,PhD,20.43111969886150,488.0,7,662.0,No,Rarely
+58.0,Male,21868.0,Married,High School,,359.0,7,248.0,No,Weekly
+25.0,Female,18535.0,Divorced,Bachelor's,44.452382335190000,759.0,2,1642.0,No,Weekly
+19.0,Male,,Divorced,High School,42.44431092708980,613.0,2,391.0,No,Monthly
+60.0,Male,,Single,Bachelor's,15.59149385379420,712.0,5,47.0,No,Monthly
+56.0,Female,5612.0,Single,Bachelor's,26.947918818745300,582.0,6,395.0,No,Daily
+46.0,Male,2846.0,Single,High School,32.613011159951600,434.0,8,697.0,Yes,Weekly
+55.0,Male,10470.0,Married,PhD,31.681692607698300,624.0,8,212.0,Yes,Daily
+60.0,Male,10293.0,Single,High School,52.21203363777540,427.0,5,1127.0,Yes,Monthly
+27.0,Female,59039.0,Divorced,Bachelor's,38.67094259729440,413.0,7,482.0,No,Daily
+46.0,Male,,Married,High School,,,7,441.0,No,Daily
+35.0,Male,4262.0,Divorced,Bachelor's,34.4686605855424,437.0,6,1028.0,No,Monthly
+28.0,Male,90469.0,Single,Bachelor's,26.85008225670030,478.0,6,214.0,Yes,Weekly
+42.0,Male,,Single,PhD,29.06810767778370,661.0,7,226.0,No,Weekly
+64.0,Female,1156.0,Single,High School,40.645899570240000,816.0,8,43.0,Yes,Weekly
+46.0,Male,51853.0,Divorced,PhD,26.077241655842200,825.0,4,824.0,No,Weekly
+45.0,Male,58660.0,Married,Master's,50.91545463341830,556.0,1,397.0,No,Rarely
+39.0,Male,69849.0,Divorced,Bachelor's,4.627777453783050,,7,341.0,Yes,Monthly
+49.0,Male,83729.0,Married,High School,43.2217880096877,352.0,2,1339.0,No,Monthly
+49.0,Male,19751.0,Single,High School,3.4208601889361400,490.0,1,2318.0,No,Rarely
+39.0,Male,66987.0,Married,High School,32.570829710125,735.0,3,1270.0,No,Monthly
+55.0,Male,69609.0,Single,High School,14.09928831790100,368.0,6,1138.0,Yes,Rarely
+43.0,Female,76991.0,Divorced,High School,36.34576342919420,401.0,7,461.0,No,Monthly
+37.0,Male,15604.0,Divorced,High School,76.68718487546890,818.0,9,833.0,No,Weekly
+61.0,Male,43510.0,Single,High School,14.614877722411000,639.0,5,1.0,Yes,Monthly
+47.0,Female,22656.0,Divorced,Master's,,324.0,9,1209.0,No,Daily
+62.0,Female,60035.0,Divorced,Master's,29.07162909762640,521.0,1,773.0,No,Daily
+46.0,Female,8804.0,Divorced,Master's,21.474144592963700,621.0,5,132.0,Yes,Daily
+44.0,Male,90885.0,Single,Master's,31.19711969588880,342.0,9,218.0,Yes,Daily
+38.0,Male,34895.0,Divorced,High School,23.18960979176410,832.0,2,1219.0,Yes,Weekly
+24.0,Female,25249.0,Divorced,High School,,424.0,2,74.0,Yes,Rarely
+,Female,25290.0,Single,PhD,20.11890436372170,704.0,4,559.0,Yes,Daily
+22.0,Female,26243.0,Married,Master's,4.672971978326750,736.0,2,609.0,Yes,Rarely
+36.0,Female,1800.0,Single,Master's,24.39211418844940,507.0,3,1288.0,Yes,Rarely
+52.0,Male,52996.0,Divorced,Master's,5.566295927877070,347.0,6,571.0,No,Monthly
+59.0,Male,5800.0,Married,High School,21.94802163666030,423.0,8,610.0,No,Daily
+36.0,Female,35886.0,Single,Master's,45.06113974608240,698.0,2,1021.0,Yes,Weekly
+19.0,Female,3978.0,Divorced,PhD,14.960908695462400,470.0,8,398.0,No,Weekly
+34.0,Male,,Married,Bachelor's,26.31073938789670,,1,1541.0,No,Monthly
+25.0,Female,,Single,Master's,46.15668221216520,777.0,7,2822.0,Yes,Daily
+33.0,Male,89609.0,Divorced,PhD,22.225131546084100,433.0,9,448.0,No,Weekly
+53.0,Female,45695.0,Divorced,Bachelor's,45.40075772546270,722.0,4,1819.0,Yes,Weekly
+41.0,Male,44627.0,Single,Master's,13.263037687975700,,8,282.0,Yes,Rarely
+62.0,Male,11867.0,Married,High School,15.501436312779800,465.0,8,230.0,Yes,Rarely
+55.0,Female,26399.0,Single,Master's,24.316760356756200,464.0,5,1881.0,Yes,Weekly
+60.0,Female,74530.0,Married,Master's,17.431961904577800,524.0,6,1229.0,No,Weekly
+32.0,Female,109184.0,Single,High School,30.346130213394600,347.0,3,659.0,Yes,Daily
+,Female,33724.0,Single,Bachelor's,38.97209985901780,781.0,1,513.0,No,Monthly
+51.0,Male,97076.0,Married,Master's,16.948026921733600,,1,63.0,Yes,Weekly
+47.0,Male,104589.0,Single,High School,17.176339999043700,655.0,8,776.0,No,Monthly
+18.0,Male,126906.0,Single,PhD,55.11271249876380,,1,528.0,Yes,Daily
+48.0,Female,,Single,High School,31.309389466420500,355.0,4,878.0,No,Daily
+46.0,Female,4504.0,Divorced,Master's,16.420082691909900,476.0,7,247.0,Yes,Weekly
+39.0,Male,76315.0,Divorced,Master's,26.98454860036300,820.0,3,2611.0,Yes,Monthly
+48.0,Male,5496.0,Married,Bachelor's,14.798355919310900,644.0,9,457.0,Yes,Rarely
+25.0,Male,20815.0,Single,Master's,44.313012072326000,714.0,7,212.0,No,Monthly
+22.0,Male,29264.0,Married,Bachelor's,59.692274165283700,805.0,5,1188.0,No,Monthly
+39.0,Female,36498.0,Divorced,PhD,14.025308196152300,352.0,1,119.0,No,Weekly
+31.0,Female,5090.0,Married,Bachelor's,22.136410780500500,458.0,2,660.0,No,Rarely
+23.0,Female,14415.0,Married,PhD,20.790529255935200,,5,877.0,No,Monthly
+18.0,Female,7741.0,Divorced,Master's,39.036987711636200,,3,77.0,No,Weekly
+47.0,Male,17215.0,Married,High School,26.82541274007620,496.0,8,518.0,No,Rarely
+44.0,Female,,Married,Master's,16.6856562927806,450.0,1,3005.0,Yes,Monthly
+51.0,Female,69029.0,Divorced,High School,,523.0,4,650.0,Yes,Daily
+36.0,Male,10472.0,Divorced,High School,15.466528833863000,712.0,8,1121.0,Yes,Weekly
+61.0,Male,2575.0,Single,PhD,37.05768498688900,691.0,1,735.0,No,Weekly
+56.0,Female,70943.0,Single,PhD,35.685827029025700,349.0,8,1160.0,No,Daily
+33.0,Female,68203.0,Married,Master's,5.58846512622606,619.0,6,282.0,Yes,Daily
+47.0,Male,121607.0,Married,Bachelor's,16.64169259089230,616.0,5,672.0,No,Weekly
+30.0,Male,10107.0,Married,PhD,15.400924951436000,505.0,3,1411.0,Yes,Weekly
+49.0,Male,26943.0,Divorced,Master's,17.28853009508530,542.0,2,935.0,No,Rarely
+58.0,Female,1922.0,Divorced,Bachelor's,6.779136997051660,642.0,3,1030.0,Yes,Weekly
+61.0,Female,10341.0,Married,PhD,23.851233146708100,,1,556.0,No,Daily
+24.0,Female,4782.0,Single,PhD,53.73573622471940,,2,406.0,Yes,Daily
+18.0,Male,55719.0,Single,Master's,51.42194017158190,809.0,2,386.0,Yes,Rarely
+49.0,Female,68499.0,Single,Master's,27.91847237210570,462.0,8,256.0,No,Rarely
+43.0,Female,93982.0,Married,Master's,10.49551490802210,346.0,5,354.0,Yes,Daily
+40.0,Male,48650.0,Single,Master's,24.389393436280200,678.0,8,54.0,Yes,Weekly
+60.0,Female,15100.0,Married,High School,30.679332231809600,,8,372.0,No,Weekly
+39.0,Female,26205.0,Single,Bachelor's,37.84242104557560,344.0,1,1518.0,Yes,Weekly
+28.0,Male,,Single,Bachelor's,30.186419300869100,612.0,3,379.0,No,Rarely
+51.0,Female,,Divorced,Master's,45.7345557892359,481.0,9,378.0,Yes,Rarely
+43.0,Male,,Single,PhD,24.801607314667900,425.0,4,522.0,Yes,Rarely
+50.0,Male,7685.0,Married,PhD,16.904741432035200,665.0,6,1001.0,Yes,Rarely
+60.0,Female,50955.0,Married,Bachelor's,39.96971391822690,756.0,5,3937.0,Yes,Daily
+35.0,Male,55567.0,Married,Bachelor's,12.715958678536500,655.0,6,96.0,Yes,Daily
+19.0,Female,88630.0,Married,Bachelor's,34.68964221215270,671.0,2,218.0,No,Daily
+46.0,Male,12283.0,Single,Master's,,672.0,1,120.0,No,Weekly
+61.0,Male,23389.0,Married,PhD,30.3612142329446,335.0,7,3145.0,Yes,Rarely
+25.0,Female,7548.0,Married,Bachelor's,6.5263656012601600,815.0,5,864.0,No,Rarely
+57.0,Female,99368.0,Married,PhD,48.361310995420300,589.0,6,120.0,Yes,Daily
+57.0,Female,3077.0,Single,PhD,32.9109876155027,601.0,6,141.0,No,Weekly
+19.0,Male,51435.0,Married,PhD,12.520672903183600,390.0,8,554.0,No,Daily
+63.0,Male,,Single,High School,39.81387380127920,828.0,5,324.0,No,Weekly
+21.0,Female,73254.0,Single,Master's,21.463314912298200,434.0,4,556.0,No,Rarely
+43.0,Male,7208.0,Divorced,PhD,24.951591062122100,696.0,6,381.0,No,Monthly
+26.0,Female,2625.0,Divorced,Bachelor's,51.93380793536780,560.0,9,154.0,Yes,Monthly
+24.0,Female,18284.0,Divorced,PhD,8.947015844254930,663.0,1,1407.0,No,Monthly
+50.0,Male,69753.0,Divorced,Master's,17.533395529008400,684.0,3,210.0,No,Monthly
+34.0,Male,70038.0,Married,Bachelor's,27.787727568610200,730.0,3,315.0,Yes,Weekly
+64.0,Male,39995.0,Single,Master's,58.3659542286734,,2,1897.0,Yes,Daily
+38.0,Male,32810.0,,Bachelor's,16.30284348888920,417.0,7,662.0,Yes,Monthly
+57.0,Female,54211.0,Single,PhD,60.28909905900620,832.0,2,896.0,Yes,Monthly
+27.0,Female,76478.0,Divorced,Bachelor's,32.54329710205050,642.0,1,445.0,Yes,Daily
+19.0,Male,414.0,Single,Master's,43.06370622119240,642.0,4,301.0,Yes,Monthly
+61.0,Female,54302.0,Married,Master's,47.81344276393780,364.0,3,1256.0,No,Weekly
+53.0,Male,13686.0,Divorced,High School,34.07878209192230,318.0,5,1074.0,Yes,Daily
+52.0,Male,72392.0,Single,High School,46.42123841031610,547.0,5,2809.0,No,Daily
+61.0,Female,89154.0,Married,Master's,15.055060792573100,,6,366.0,No,Rarely
+36.0,Female,71196.0,Married,Bachelor's,24.574461224903200,568.0,1,365.0,No,Monthly
+19.0,Male,68147.0,Divorced,PhD,10.650951163801800,387.0,8,109.0,Yes,Weekly
+60.0,Male,16932.0,Married,PhD,14.367793853463900,585.0,2,1042.0,No,Daily
+55.0,Male,30091.0,Divorced,PhD,21.193250613313600,792.0,3,1.0,Yes,Rarely
+21.0,Female,15869.0,Married,PhD,23.029475518199700,839.0,4,1156.0,Yes,Monthly
+39.0,Female,23048.0,Married,Master's,8.673559394551950,593.0,7,689.0,Yes,Rarely
+21.0,Male,66896.0,Married,High School,24.926765023268700,450.0,6,2242.0,No,Monthly
+41.0,Male,20602.0,Single,Bachelor's,35.5565138477977,349.0,6,327.0,No,Monthly
+56.0,Male,13820.0,Divorced,High School,41.36984849653850,533.0,6,591.0,Yes,Rarely
+63.0,Female,56832.0,,High School,17.35446425853260,764.0,8,41.0,No,Monthly
+23.0,Female,79695.0,Divorced,Master's,16.563995400039000,347.0,8,136.0,No,Weekly
+31.0,Female,75462.0,Divorced,Master's,16.806599595563700,749.0,5,491.0,Yes,Weekly
+32.0,Female,94604.0,Married,PhD,30.30364311361190,,3,1341.0,Yes,Weekly
+54.0,Male,57562.0,Single,Bachelor's,20.877545463531200,414.0,3,1076.0,No,Monthly
+36.0,Male,12487.0,Single,PhD,44.2141962947246,384.0,3,240.0,Yes,Weekly
+42.0,Female,18434.0,Single,High School,48.82457735416430,417.0,8,393.0,Yes,Daily
+57.0,Female,48032.0,Divorced,PhD,42.124682807592500,833.0,7,120.0,No,Rarely
+25.0,Male,56015.0,Single,Bachelor's,44.25977717666550,,2,224.0,Yes,Weekly
+28.0,Male,,Single,Master's,79.46767187356850,839.0,1,311.0,No,Weekly
+61.0,Female,69793.0,Single,Bachelor's,15.986043900009200,,1,199.0,Yes,Daily
+62.0,Male,91497.0,Single,Bachelor's,50.27296182521380,,4,961.0,Yes,Daily
+32.0,Female,7793.0,Married,Bachelor's,25.61371252851740,309.0,4,600.0,No,Daily
+47.0,Male,2369.0,Divorced,Bachelor's,18.910930658008300,557.0,1,387.0,Yes,Rarely
+44.0,Female,49694.0,Married,Bachelor's,16.211427669769900,701.0,2,2149.0,No,Monthly
+64.0,Female,37369.0,Divorced,Bachelor's,45.6617568045413,700.0,6,2995.0,Yes,Monthly
+56.0,Female,24061.0,Single,Bachelor's,37.78488556749650,428.0,8,257.0,No,Daily
+26.0,Female,44047.0,Married,PhD,30.239472016319300,833.0,6,2272.0,No,Rarely
+53.0,Male,,Married,PhD,17.856999440124200,736.0,4,688.0,Yes,Rarely
+33.0,Male,40545.0,Married,Bachelor's,36.56409634928130,709.0,1,684.0,No,Weekly
+32.0,Male,39379.0,Divorced,Bachelor's,27.945076798490000,617.0,6,636.0,Yes,Weekly
+41.0,Male,26315.0,Married,High School,59.48597309729850,,8,2799.0,No,Daily
+32.0,Female,28022.0,Divorced,High School,55.45580114000470,393.0,7,1852.0,No,Daily
+62.0,Male,5835.0,Married,Master's,38.518805439648000,430.0,3,235.0,No,Rarely
+60.0,Male,10092.0,Married,Bachelor's,37.75718518357720,568.0,2,2026.0,No,Rarely
+37.0,Female,95791.0,Single,Bachelor's,66.57009084058040,530.0,4,2602.0,Yes,Rarely
+34.0,Male,16486.0,Married,High School,46.85742214296360,,1,2393.0,No,Weekly
+28.0,Female,55286.0,Married,Master's,29.85068980679940,328.0,5,968.0,Yes,Daily
+47.0,Male,40539.0,Married,Master's,30.418225296141200,350.0,5,109.0,Yes,Monthly
+61.0,Female,36404.0,Single,Bachelor's,24.20740388021290,376.0,9,1126.0,No,Monthly
+34.0,Female,8162.0,Married,Bachelor's,44.677757410931500,343.0,4,414.0,No,Weekly
+58.0,Male,5667.0,Married,High School,44.60575334347970,742.0,7,1843.0,Yes,Daily
+20.0,Male,92696.0,Single,High School,8.81191292413772,597.0,1,682.0,Yes,Rarely
+57.0,Female,8751.0,Single,High School,6.316538255412570,313.0,7,102.0,No,Weekly
+38.0,Male,131479.0,Divorced,PhD,42.03830103651220,378.0,6,1580.0,No,Rarely
+58.0,Male,74841.0,Divorced,High School,16.94388404476550,,2,3431.0,No,Daily
+22.0,Male,24051.0,Divorced,Master's,28.97080731563880,404.0,6,1184.0,Yes,Weekly
+49.0,Female,49362.0,Married,PhD,15.854603493039800,,5,536.0,No,Monthly
+40.0,Male,53128.0,Single,High School,52.63892697929940,810.0,4,1972.0,Yes,Daily
+23.0,Male,20914.0,,Master's,18.149350452684900,603.0,6,433.0,No,Daily
+22.0,Female,61828.0,Married,Master's,21.713041339450900,576.0,5,1267.0,No,Weekly
+31.0,Male,23401.0,Married,High School,35.29839920553370,556.0,2,223.0,Yes,Daily
+41.0,Male,1117.0,Single,High School,37.82083444712620,,7,149.0,Yes,Daily
+48.0,Female,4648.0,Single,Master's,17.47303245621730,565.0,4,1453.0,No,Daily
+46.0,Female,10994.0,Married,PhD,41.05769073807920,464.0,7,565.0,Yes,Weekly
+53.0,Male,,Divorced,Master's,16.939022111514600,,5,1252.0,No,Daily
+25.0,Female,135203.0,Divorced,High School,,410.0,1,1536.0,No,Weekly
+36.0,Male,108010.0,Single,High School,37.95558400873200,318.0,5,777.0,Yes,Weekly
+61.0,Female,39309.0,Divorced,High School,42.031511093354000,644.0,9,804.0,Yes,Monthly
+55.0,Female,22586.0,Married,PhD,16.80164008562810,464.0,6,522.0,Yes,Daily
+45.0,Male,87435.0,Single,Bachelor's,42.65207645149260,,6,573.0,No,Daily
+57.0,Female,41346.0,Single,Master's,51.47002730307560,809.0,4,830.0,No,Daily
+56.0,Male,27143.0,Divorced,Bachelor's,4.577153388819240,682.0,7,180.0,Yes,Rarely
+36.0,Female,3219.0,Married,Bachelor's,20.00348206275670,419.0,6,901.0,Yes,Daily
+40.0,Male,99042.0,Married,Bachelor's,26.6388142976736,338.0,2,330.0,No,Weekly
+38.0,Female,58836.0,Married,Master's,54.533440672485600,425.0,3,1911.0,Yes,Rarely
+24.0,Female,31333.0,Married,High School,,843.0,4,1852.0,Yes,Rarely
+33.0,Female,73353.0,Divorced,High School,22.19222294747940,660.0,8,946.0,No,Daily
+58.0,Female,,Married,Bachelor's,52.665678877246700,404.0,1,514.0,No,Daily
+54.0,Male,131160.0,Single,Master's,40.10558147957600,806.0,8,427.0,Yes,Rarely
+64.0,Male,44474.0,Married,Master's,16.93208735163840,696.0,4,1324.0,Yes,Daily
+51.0,Female,6594.0,Single,Master's,34.2184257321146,355.0,9,3505.0,No,Rarely
+19.0,Female,29401.0,Divorced,Bachelor's,25.719284477165000,524.0,6,3797.0,No,Daily
+44.0,Male,83196.0,Divorced,Master's,8.746046378304140,,9,304.0,No,Monthly
+47.0,Female,125057.0,Married,PhD,41.525230720200500,558.0,4,681.0,No,Rarely
+38.0,Female,34682.0,Single,Master's,12.278167016566600,505.0,2,440.0,No,Weekly
+43.0,Male,24169.0,Divorced,Master's,19.39236900754320,746.0,5,813.0,No,Rarely
+56.0,Male,16272.0,Divorced,PhD,28.910464784008400,327.0,4,129.0,Yes,Weekly
+43.0,Male,74159.0,Divorced,Master's,43.16000550862210,630.0,1,1603.0,No,Monthly
+61.0,Female,59580.0,Married,PhD,37.20668593753840,655.0,4,1251.0,No,Weekly
+,Female,39036.0,Divorced,PhD,36.4751332631387,345.0,4,48.0,No,Weekly
+25.0,Male,27773.0,Single,Bachelor's,18.77705119083580,430.0,9,1438.0,Yes,Daily
+53.0,Female,47840.0,Divorced,PhD,46.86807736185880,695.0,8,1090.0,Yes,Monthly
+25.0,Female,85928.0,Single,High School,44.79813572925940,436.0,5,975.0,No,Rarely
+25.0,Male,,Single,High School,7.261235213811110,777.0,8,,Yes,Weekly
+52.0,Male,16070.0,Single,Bachelor's,22.402577417894500,728.0,2,338.0,Yes,Monthly
+57.0,Female,9362.0,Single,Bachelor's,24.93298360959270,518.0,2,911.0,No,Rarely
+19.0,Male,80123.0,Single,High School,40.4393851271919,766.0,7,0.0,Yes,Monthly
+45.0,Male,10771.0,Married,Bachelor's,23.50588505106420,,3,1284.0,Yes,Daily
+63.0,Male,10987.0,Single,PhD,29.166483446070300,340.0,4,597.0,Yes,Daily
